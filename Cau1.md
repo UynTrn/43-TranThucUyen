@@ -1,6 +1,6 @@
 ﻿# Cau1
 
-Các giai đoạn chính Vòng đời phát triển phần mềm truyền thống:
+Các giai đoạn chính Vòng đời phát triển phần mềm truyền thống: 
 	1. Thu thập yêu cầu
 		- Mục tiêu: hiểu rõ yêu cầu người dùng, xác định các chức năng
 		- Hiện vật: tài liệu yêu cầu của người dùng
